@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "🐦مش مطمن يس"
+  },
+  {
+    "role": "assistant",
+    "content": "ما الموضوع؟"
+  },
+  {
+    "role": "user",
+    "content": "ولا شب"
+  },
+  {
+    "role": "assistant",
+    "content": "شب ايه؟"
+  },
+  {
+    "role": "user",
+    "content": "ي"
+  },
+  {
+    "role": "assistant",
+    "content": "شب النت عندك؟"
+  },
+  {
+    "role": "user",
+    "content": "شي"
+  },
+  {
+    "role": "assistant",
+    "content": "مش موجود حاليا\nساعتين وراجع"
+  }
+]

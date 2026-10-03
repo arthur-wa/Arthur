@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "ذا شو ؟"
+  },
+  {
+    "role": "assistant",
+    "content": "عن شو تتكلم بالضبط؟"
+  },
+  {
+    "role": "user",
+    "content": "الاغنيه ياحب"
+  },
+  {
+    "role": "assistant",
+    "content": "أي أغنية تقصد بالضبط؟"
+  },
+  {
+    "role": "user",
+    "content": "في اتنين"
+  },
+  {
+    "role": "assistant",
+    "content": "ارسلهم أشوفهم."
+  }
+]

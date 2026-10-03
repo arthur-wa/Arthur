@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "اما ارثر."
+  },
+  {
+    "role": "assistant",
+    "content": "ما في شي؟"
+  },
+  {
+    "role": "user",
+    "content": "بخير دامك بخير"
+  },
+  {
+    "role": "assistant",
+    "content": "الحمدلله تمام"
+  },
+  {
+    "role": "user",
+    "content": "اجمعين."
+  },
+  {
+    "role": "assistant",
+    "content": "شو المطلوب؟"
+  }
+]

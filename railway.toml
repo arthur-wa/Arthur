@@ -1,0 +1,16 @@
+[build]
+builder = "nixpacks"
+
+[build.nixpacksPlan.phases.setup]
+nixPkgs = ["nodejs_20", "ffmpeg"]
+
+[build.nixpacksPlan.phases.install]
+cmds = ["npm install --legacy-peer-deps"]
+
+[build.nixpacksPlan.phases.build]
+cmds = ["npm install --legacy-peer-deps"]
+
+[deploy]
+startCommand = "node index.js"
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 5

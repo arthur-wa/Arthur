@@ -1,0 +1,66 @@
+[
+  {
+    "role": "user",
+    "content": "😂😂"
+  },
+  {
+    "role": "assistant",
+    "content": "هاها\nشو؟"
+  },
+  {
+    "role": "user",
+    "content": "اخخخ بس حبيت والله ✨\nشي مميز ذي فتره بحياتي"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام\nخليها مستمرة."
+  },
+  {
+    "role": "user",
+    "content": "يتم"
+  },
+  {
+    "role": "assistant",
+    "content": "يعني؟"
+  },
+  {
+    "role": "user",
+    "content": "يعني معنى"
+  },
+  {
+    "role": "assistant",
+    "content": "فترة حلوة.\nاستمتع فيها."
+  },
+  {
+    "role": "user",
+    "content": "كيف بستمتع"
+  },
+  {
+    "role": "assistant",
+    "content": "شوفها كاملة.\nدون التفاصيل.\nعيش اللحظة."
+  },
+  {
+    "role": "user",
+    "content": "شكلي اخذت على جو"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام."
+  },
+  {
+    "role": "user",
+    "content": "تسليكك يابوت"
+  },
+  {
+    "role": "assistant",
+    "content": "ما في تسليكات.\nركز على اللي قدامك."
+  },
+  {
+    "role": "user",
+    "content": "😂😂😂"
+  },
+  {
+    "role": "assistant",
+    "content": "شو الضحك؟"
+  }
+]

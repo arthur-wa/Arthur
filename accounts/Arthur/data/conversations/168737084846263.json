@@ -1,0 +1,50 @@
+[
+  {
+    "role": "user",
+    "content": "خش"
+  },
+  {
+    "role": "assistant",
+    "content": "Option 5:* \"هلا، اسمعك قول.\" (3 words) - \"Hi, I'm listening, speak.\""
+  },
+  {
+    "role": "user",
+    "content": "ينزلو افتارات"
+  },
+  {
+    "role": "assistant",
+    "content": "لون.\" (2 words) - \"Yes they post.\"\n    *   Let's check the word count: \""
+  },
+  {
+    "role": "user",
+    "content": "واضح من  الاسم"
+  },
+  {
+    "role": "assistant",
+    "content": "بالضبط، واضح جداً."
+  },
+  {
+    "role": "user",
+    "content": "حصل"
+  },
+  {
+    "role": "assistant",
+    "content": "بالضبط."
+  },
+  {
+    "role": "user",
+    "content": "راغنا هههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههه هههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههه"
+  },
+  {
+    "role": "assistant",
+    "content": "ههههه بالضبط."
+  },
+  {
+    "role": "user",
+    "content": "شيل الia"
+  },
+  {
+    "role": "assistant",
+    "content": "وش قصدك؟ ما فهمت."
+  }
+]

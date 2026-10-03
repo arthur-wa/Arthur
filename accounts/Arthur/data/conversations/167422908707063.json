@@ -1,0 +1,58 @@
+[
+  {
+    "role": "user",
+    "content": "لا تنسي قول شيف تعبانة"
+  },
+  {
+    "role": "assistant",
+    "content": "شيف تعبانة، وش تبي بالضبط؟"
+  },
+  {
+    "role": "user",
+    "content": "لا تنسي قول شيف تعبانة"
+  },
+  {
+    "role": "assistant",
+    "content": "شيف تعبانة، وش تبي بعد؟"
+  },
+  {
+    "role": "user",
+    "content": "بس قول لهم كذا"
+  },
+  {
+    "role": "assistant",
+    "content": "شيف تعبانة، خلاص صار."
+  },
+  {
+    "role": "user",
+    "content": "و ادا حبيت سوي طبخة"
+  },
+  {
+    "role": "assistant",
+    "content": "شيف تعبانة، ما بطبخ شي الحين."
+  },
+  {
+    "role": "user",
+    "content": "خلاص بقول انا"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام، براحتك."
+  },
+  {
+    "role": "user",
+    "content": "فيك شي؟!"
+  },
+  {
+    "role": "assistant",
+    "content": "شيف تعبانة، ما فيني شي."
+  },
+  {
+    "role": "user",
+    "content": "قول"
+  },
+  {
+    "role": "assistant",
+    "content": "شيف تعبانة، وش أقول؟"
+  }
+]

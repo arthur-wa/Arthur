@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "طيل"
+  },
+  {
+    "role": "assistant",
+    "content": "ما فهمت، وضح كلامك."
+  },
+  {
+    "role": "user",
+    "content": "ب"
+  },
+  {
+    "role": "assistant",
+    "content": "وش قصدك؟"
+  },
+  {
+    "role": "user",
+    "content": "اه"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام، كمل."
+  },
+  {
+    "role": "user",
+    "content": "مسجلاك من غزوة احد"
+  },
+  {
+    "role": "assistant",
+    "content": "قديم مرة، وش بغيت الحين؟"
+  }
+]

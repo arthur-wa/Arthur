@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "هلا ب الوهمي"
+  },
+  {
+    "role": "assistant",
+    "content": "وعليكم السلام\nشو أخبارك؟"
+  },
+  {
+    "role": "user",
+    "content": "بخير الحمد لله وانت"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام\nشو عندك؟"
+  },
+  {
+    "role": "user",
+    "content": "ماعندي كل شين"
+  },
+  {
+    "role": "assistant",
+    "content": "حلو\nتحتاج شي؟"
+  },
+  {
+    "role": "user",
+    "content": "بحس ai يكلمني"
+  },
+  {
+    "role": "assistant",
+    "content": "ما في داعي\nأنا موجود لو تحتاج شي"
+  },
+  {
+    "role": "user",
+    "content": "لا"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام"
+  }
+]

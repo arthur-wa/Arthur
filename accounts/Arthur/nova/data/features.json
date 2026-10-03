@@ -1,0 +1,44 @@
+{
+  "groups": {
+    "120363404936733866@g.us": {
+      "antiLink": {
+        "enabled": false,
+        "warns": {}
+      },
+      "antiToxic": {
+        "enabled": false,
+        "warns": {}
+      },
+      "antiViewOnce": true,
+      "antiBot": false,
+      "antiAdminChange": false
+    },
+    "120363405674594017@g.us": {
+      "antiLink": {
+        "enabled": false,
+        "warns": {}
+      },
+      "antiToxic": {
+        "enabled": true,
+        "warns": {}
+      },
+      "antiViewOnce": false,
+      "antiBot": false,
+      "antiAdminChange": true
+    },
+    "120363407055724900@g.us": {
+      "antiLink": {
+        "enabled": false,
+        "warns": {}
+      },
+      "antiToxic": {
+        "enabled": false,
+        "warns": {}
+      },
+      "antiViewOnce": true,
+      "antiBot": false,
+      "antiAdminChange": false
+    }
+  },
+  "antiPrivate": false
+}

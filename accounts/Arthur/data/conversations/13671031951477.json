@@ -1,0 +1,50 @@
+[
+  {
+    "role": "user",
+    "content": "احا ده مصري"
+  },
+  {
+    "role": "assistant",
+    "content": "اه مصري، تمام."
+  },
+  {
+    "role": "user",
+    "content": "خلي بالك"
+  },
+  {
+    "role": "assistant",
+    "content": "مفهوم."
+  },
+  {
+    "role": "user",
+    "content": "شاطر"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام."
+  },
+  {
+    "role": "user",
+    "content": "احا"
+  },
+  {
+    "role": "assistant",
+    "content": "ايه؟"
+  },
+  {
+    "role": "user",
+    "content": "كل هاد بتكتب في تمام"
+  },
+  {
+    "role": "assistant",
+    "content": "ايوه. ايه المطلوب؟"
+  },
+  {
+    "role": "user",
+    "content": "و كل هاد بتكتب في تمام"
+  },
+  {
+    "role": "assistant",
+    "content": "اوكاى. خلاص فهمت."
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "role": "user",
+    "content": "غير مشرفيني"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام"
+  },
+  {
+    "role": "user",
+    "content": "فديتهم"
+  },
+  {
+    "role": "assistant",
+    "content": "حلال عليهم"
+  },
+  {
+    "role": "user",
+    "content": "عندي 2 مصريين احسن من اللورد نفسو"
+  },
+  {
+    "role": "assistant",
+    "content": "عجبني"
+  },
+  {
+    "role": "user",
+    "content": "همم"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام"
+  },
+  {
+    "role": "user",
+    "content": "اللورد قلتلو انت تتأخر بالرد رد علي ثاني يوم قالي محصلش"
+  },
+  {
+    "role": "assistant",
+    "content": "مافيش مشكلة"
+  },
+  {
+    "role": "user",
+    "content": "حصل"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام"
+  },
+  {
+    "role": "user",
+    "content": "كفو"
+  },
+  {
+    "role": "assistant",
+    "content": "بالضبط"
+  },
+  {
+    "role": "user",
+    "content": "ارثورة\nممكن طلب"
+  },
+  {
+    "role": "assistant",
+    "content": "شو اللي بتحبه"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "عندك حزمة"
+  },
+  {
+    "role": "assistant",
+    "content": "حزمة ايش بالضبط؟"
+  }
+]

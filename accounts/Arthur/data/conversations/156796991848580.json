@@ -1,0 +1,66 @@
+[
+  {
+    "role": "user",
+    "content": "ص"
+  },
+  {
+    "role": "assistant",
+    "content": "وش قصدك؟"
+  },
+  {
+    "role": "user",
+    "content": "تضييع ميصي للجزاء"
+  },
+  {
+    "role": "assistant",
+    "content": "عادي، تصير مع الكل."
+  },
+  {
+    "role": "user",
+    "content": "بس في ناس ماتقتنع"
+  },
+  {
+    "role": "assistant",
+    "content": "بكيفهم، مو لازم يقتنعون."
+  },
+  {
+    "role": "user",
+    "content": "قحا"
+  },
+  {
+    "role": "assistant",
+    "content": "بالضبط، ريح راسك."
+  },
+  {
+    "role": "user",
+    "content": "المشكله بعته مع الصوت"
+  },
+  {
+    "role": "assistant",
+    "content": "عادي، ما يضر."
+  },
+  {
+    "role": "user",
+    "content": "وفيه الصوت فضايح"
+  },
+  {
+    "role": "assistant",
+    "content": "احذفه للكل بسرعة وخلاص."
+  },
+  {
+    "role": "user",
+    "content": "بس بعته لك"
+  },
+  {
+    "role": "assistant",
+    "content": "عادي، ماراح أسمعه لا تشيل هم."
+  },
+  {
+    "role": "user",
+    "content": "معلش"
+  },
+  {
+    "role": "assistant",
+    "content": "حصل خير، ولا يهمك."
+  }
+]

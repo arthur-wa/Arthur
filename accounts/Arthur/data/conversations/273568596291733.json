@@ -1,0 +1,66 @@
+[
+  {
+    "role": "user",
+    "content": "نعيم الجهل ولله"
+  },
+  {
+    "role": "assistant",
+    "content": "بالضبط، تريح راسك."
+  },
+  {
+    "role": "user",
+    "content": "دزمخا بروح ألعب"
+  },
+  {
+    "role": "assistant",
+    "content": "خذ راحتك، تمام."
+  },
+  {
+    "role": "user",
+    "content": "تست ياي"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام، وش عندك؟"
+  },
+  {
+    "role": "user",
+    "content": "احبك"
+  },
+  {
+    "role": "assistant",
+    "content": "حبيبي، تسلم."
+  },
+  {
+    "role": "user",
+    "content": "الله يسلمك"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام."
+  },
+  {
+    "role": "user",
+    "content": "لا ترد من بعد دي الرساله"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام."
+  },
+  {
+    "role": "user",
+    "content": "تم"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام."
+  },
+  {
+    "role": "user",
+    "content": "مخلاص"
+  },
+  {
+    "role": "assistant",
+    "content": "خلاص، تمام."
+  }
+]

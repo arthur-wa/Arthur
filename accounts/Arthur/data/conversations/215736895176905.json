@@ -1,0 +1,66 @@
+[
+  {
+    "role": "user",
+    "content": "استفزني ابن الحرام"
+  },
+  {
+    "role": "assistant",
+    "content": "ما في داعي للاستفزاز. إذا عندك حاجة مفيدة قولها، وإلا خلي السكة."
+  },
+  {
+    "role": "user",
+    "content": "كنت ببدا اسب"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام."
+  },
+  {
+    "role": "user",
+    "content": "خذلك"
+  },
+  {
+    "role": "assistant",
+    "content": "ما في وقت للعب. إذا عندك موضوع أو طلب واضح، ابدأ فيه مباشرة."
+  },
+  {
+    "role": "user",
+    "content": "كس اخت الai يزم"
+  },
+  {
+    "role": "assistant",
+    "content": "(لا رد، تجاهل كامل)"
+  },
+  {
+    "role": "user",
+    "content": "طيره من وجهي"
+  },
+  {
+    "role": "assistant",
+    "content": "تمام."
+  },
+  {
+    "role": "user",
+    "content": "يزم استنى الحسبه صدمتني"
+  },
+  {
+    "role": "assistant",
+    "content": "حاسب نفسك. لو تبي تستمر بالكلام الفارغ، أنا مش موجود."
+  },
+  {
+    "role": "user",
+    "content": "يزم كس امك مين حكا معك انت"
+  },
+  {
+    "role": "assistant",
+    "content": "(لا رد، انسحاب من المحادثة)"
+  },
+  {
+    "role": "user",
+    "content": "ايوا انسحب زي الكلب طير"
+  },
+  {
+    "role": "assistant",
+    "content": "(المحادثة انتهت)"
+  }
+]
